@@ -2,7 +2,7 @@
 #include<bits\stdc++.h>
 
 int main(void){
-    for(int i = 1 ; i <=100 ;i++){
+    for(int i = 1 ; i <= 100 ;i ++){
         std::cout << std::setw(2) << i <<std::endl;
     }     
     return 0;
