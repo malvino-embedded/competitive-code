@@ -9,8 +9,10 @@ void alphabets(void){
 }
 
 int main(void){
-	std::cout << "\n";
+	
+	system("cls");
 	std::cout << "To Print the Alphabets Letter form A To Z....\n";
 	alphabets();
+	system("pause");
 	return 0;
 }
